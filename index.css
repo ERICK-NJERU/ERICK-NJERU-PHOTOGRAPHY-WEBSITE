@@ -1,0 +1,28 @@
+body {
+    background-image: url("vincent-giersch-Jky9coxzeHI-unsplash.jpg");
+    border: 2px solid;
+    color: pink;
+    width : 100%;
+    height: 100%;
+    margin: 2px;
+    padding: 0;
+    overflow: auto;
+  }
+  h2 {background-color:burlywood;
+    border: maroon;
+    border-style: solid
+    ;
+    color: black;
+    text-align: center;
+  
+  }
+  div {background-color: rgb(230, 9, 9);
+  border: black;
+  border-style: solid;
+  justify-content: space-around;
+  
+  }
+  div h1 {display: flex;
+  justify-content: space-around;
+  background-color: fuchsia;
+  }
