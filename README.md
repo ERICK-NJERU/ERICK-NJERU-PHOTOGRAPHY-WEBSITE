@@ -21,8 +21,14 @@ Erick Gitonga Njeru is a renown sofware development student currently enhansing 
 ![image](ERICK.jpg)
 
 # CONTRIBUTORS
-ROSE & ALBERT are MORINGA SCHOOL technical mentor-senior developers who have guided me through the process.
+ROSE & ALBERT are MORINGA SCHOOL technical mentors-Senior developers who have guided me through the process.
 
+
+![image](https://ca.slack-edge.com/T0101L740P4-U010KD0G3RP-1c58928e2bfd-512) 
+# ALbert
+![image](https://ca.slack-edge.com/T0101L740P4-U010GAK00QP-f50b5bfcd868-512)
+
+# Rose
 
 ## project livelink
 (https://erick-njeru.github.io/ERICK-NJERU-PHOTOGRAPHY-WEBSITE/)
@@ -30,9 +36,3 @@ ROSE & ALBERT are MORINGA SCHOOL technical mentor-senior developers who have gui
 PROJECT COPYRIGHT AND LICENCING
 
 this project remains the property of the contributors, no coppying without prior notification and authorization from the "owners"
-
-![image](https://ca.slack-edge.com/T0101L740P4-U010KD0G3RP-1c58928e2bfd-512) 
-# ALbert
-![image](https://ca.slack-edge.com/T0101L740P4-U010GAK00QP-f50b5bfcd868-512)
-
-# Rose
