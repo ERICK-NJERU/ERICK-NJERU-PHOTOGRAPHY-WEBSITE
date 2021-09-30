@@ -15,7 +15,7 @@ This is a photography website dealing with the following servces
 
 # Author and contributors 
 1. [ERICK gitonga NJERU -STUDENT at Moringa school]()
-2. [ROSE-INSTRUCTOR & ALBERT-TMS]()
+2. [ROSE-INSTRUCTOR & ALBERT-TMS-moringa school]()
 
 
 
