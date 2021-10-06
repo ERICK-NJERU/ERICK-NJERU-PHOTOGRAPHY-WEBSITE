@@ -22,19 +22,19 @@ font-weight: bold;
 font-family: 'Times New Roman', Times, serif;
 
 }
-div {background-color: rgb(230, 9, 9);
+div {background-color: rgb(238, 107, 188);
 border-color: white;
 border-style: solid;
+/* justify-content: space-around; */
 
 }
-
-.links {display: inline-flex;
-}
-
 div h1 {display: flex;
 justify-content: space-around;
 background-color: fuchsia;
 }
+/* div form {display: inline;
+flex-direction: row;
+} */
 
 .form{
   
