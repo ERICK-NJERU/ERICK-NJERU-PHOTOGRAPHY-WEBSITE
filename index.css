@@ -1,5 +1,5 @@
 body {
-  background-image: url("vincent-giersch-Jky9coxzeHI-unsplash.jpg");
+ 
   border: 2px solid;
   color: pink;
   width : 100%;
@@ -42,3 +42,5 @@ background-color: fuchsia;
 a:hover {
   background-color: yellow;
 }
+
+#imges { padding-left: 45px;}
