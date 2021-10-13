@@ -1,5 +1,5 @@
 body {
- 
+ BA
   border: 2px solid;
   color: pink;
   width : 100%;
@@ -10,7 +10,7 @@ body {
 
 }
 p {color: black;}
-h2 {background-color:burlywood;
+h2 {background-color:#EA4319;
   border: maroon;
   border-style: solid;
   color: black;
@@ -22,16 +22,16 @@ font-weight: bold;
 font-family: 'Times New Roman', Times, serif;
 
 }
-div {background-color: rgb(238, 107, 188);
+div {background-color: #EA4319;
 border-color: white;
 border-style: solid;
 }
 div h1 {display: flex;
 justify-content: space-around;
-background-color: fuchsia;
+
 }
 .form{
-  
+   -
   color: black;
   align-items: right;
   background-color: rgba(0, 0, 255, 0.918);
