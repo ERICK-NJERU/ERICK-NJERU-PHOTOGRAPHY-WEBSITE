@@ -7,13 +7,12 @@ body {
   margin: 2px;
   padding: 0;
   overflow: auto;
-  
+
 }
 p {color: black;}
 h2 {background-color:burlywood;
   border: maroon;
-  border-style: solid
-  ;
+  border-style: solid;
   color: black;
   text-align: center;
 
@@ -26,22 +25,18 @@ font-family: 'Times New Roman', Times, serif;
 div {background-color: rgb(238, 107, 188);
 border-color: white;
 border-style: solid;
-/* justify-content: space-around; */
 
 }
 div h1 {display: flex;
 justify-content: space-around;
 background-color: fuchsia;
 }
-/* div form {display: inline;
-flex-direction: row;
-} */
-
 .form{
   
   color: black;
   align-items: right;
   background-color: rgba(0, 0, 255, 0.918);
+  display: flex;
 }
 
 a:hover {
